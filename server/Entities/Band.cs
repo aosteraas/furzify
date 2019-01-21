@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace Furzify.API.Entities
@@ -38,5 +39,7 @@ namespace Furzify.API.Entities
 
         [DataType(DataType.Url)]
         public string YouTube { get; set; }
+
+        public virtual List<Song> Songs { get; set; }
     }
 }

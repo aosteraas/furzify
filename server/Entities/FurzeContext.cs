@@ -8,5 +8,6 @@ namespace Furzify.API.Entities
         public FurzeContext(DbContextOptions<FurzeContext> options) : base(options) { }
 
         public DbSet<Band> Bands { get; set; }
+        public DbSet<Song> Songs { get; set; }
     }
 }
