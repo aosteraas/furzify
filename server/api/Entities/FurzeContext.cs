@@ -9,5 +9,6 @@ namespace Furzify.API.Entities
 
         public DbSet<Band> Bands { get; set; }
         public DbSet<Song> Songs { get; set; }
+        public DbSet<Video> Videos { get; set; }
     }
 }

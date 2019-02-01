@@ -2,15 +2,17 @@
 using Furzify.API.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace Furzify.API.Migrations
 {
     [DbContext(typeof(FurzeContext))]
-    partial class FurzeContextModelSnapshot : ModelSnapshot
+    [Migration("20190201115941_AddVideosTable")]
+    partial class AddVideosTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

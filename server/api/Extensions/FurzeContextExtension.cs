@@ -1,5 +1,11 @@
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
+using Furzify.API.Entities;
 
 namespace Furzify.API.Extensions
 {
@@ -816,6 +822,11 @@ namespace Furzify.API.Extensions
                 {
                     Title = "Making a Staircase Treadmill",
                     Url =  "https://www.youtube.com/watch?v=rv1qZP2P6Yc"
+                },
+                new Video
+                {
+                    Title = "STAIRCASE TREADMILL The ultimate exercise machine",
+                    Url = "https://www.youtube.com/watch?v=Ya1iDTix8Js"
                 }
             };
         }
