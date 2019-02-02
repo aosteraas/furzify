@@ -911,7 +911,7 @@ namespace Furzify.API.Extensions
                         Website =  "https://www.21tarasband.com/",
                         Twitter =  "https://twitter.com/21TarasBand",
                         Instagram = "https://www.instagram.com/21tarasband/",
-                        Spotify = "https://open.spotify.com/artist/4dOLgFH6ffzCxazLksqHRh?",
+                        Spotify = "https://open.spotify.com/artist/4dOLgFH6ffzCxazLksqHRh",
                         ReverbNation =  "https://www.reverbnation.com/21Taras"
                     },
                     new Band
@@ -1130,7 +1130,7 @@ namespace Furzify.API.Extensions
                         SoundCloud = "https://soundcloud.com/bearshoeband",
                         Instagram = "https://www.instagram.com/bearshoeband",
                         Twitter =  "https://twitter.com/BearShoeBand",
-                        Spotify = "https://open.spotify.com/artist/4OehQTFb1Cw82lx0yyKhyl?",
+                        Spotify = "https://open.spotify.com/artist/4OehQTFb1Cw82lx0yyKhyl",
                         Facebook = "https://www.facebook.com/bearshoeband/"
                     },
                     new Band
@@ -1183,7 +1183,7 @@ namespace Furzify.API.Extensions
                         Bandcamp =  "http://bedspin.bandcamp.com",
                         Instagram = "https://www.instagram.com/bedspinband",
                         Facebook = "https://www.facebook.com/bedspin618/",
-                        Spotify = "https://open.spotify.com/artist/56THJ7K3NMQTkpWshTCqkW?"
+                        Spotify = "https://open.spotify.com/artist/56THJ7K3NMQTkpWshTCqkW"
                     },
                     new Band
                     {
@@ -1205,7 +1205,7 @@ namespace Furzify.API.Extensions
                         },
                         Name = "Big Beard",
                         Bandcamp =  "https://bigbeard.bandcamp.com/",
-                        Spotify = "https://open.spotify.com/artist/6l1J1Pihggz4MJ5zTWconT?",
+                        Spotify = "https://open.spotify.com/artist/6l1J1Pihggz4MJ5zTWconT",
                         Facebook = "https://www.facebook.com/Big-Beard-165485510955489/"
                     },
                     new Band
@@ -1316,7 +1316,7 @@ namespace Furzify.API.Extensions
 
                         },
                         Name = "BRAINCOATS",
-                        Spotify = "https://open.spotify.com/artist/7ej3r9Ru63d7mE2uzso1uE?",
+                        Spotify = "https://open.spotify.com/artist/7ej3r9Ru63d7mE2uzso1uE",
                         Facebook = "https://www.facebook.com/BRAINCOATS/",
                         Bandcamp =  "https://braincoats.bandcamp.com/",
                         YouTube = "https://www.youtube.com/user/BraincoatsOfficial",
@@ -1358,7 +1358,7 @@ namespace Furzify.API.Extensions
                             },
                         },
                         Name = "Brawlers",
-                        Spotify = "https://open.spotify.com/artist/69tLgUPhogqUB7goY1kyJn?",
+                        Spotify = "https://open.spotify.com/artist/69tLgUPhogqUB7goY1kyJn",
                         Facebook = "https://www.facebook.com/wearebrawlers/",
                         Twitter =  "https://twitter.com/wearebrawlers",
                         Website =  "http://www.ilovealcopop.co.uk/"
@@ -2278,16 +2278,16 @@ namespace Furzify.API.Extensions
                         Facebook = "https://www.facebook.com/zublueband/",
                         SoundCloud = "https://soundcloud.com/zublue",
                         Instagram = "https://www.instagram.com/ZublueUK/",
-                        Spotify = "https://open.spotify.com/artist/3UgmI3Q2tO0TQZyU7KPaf9?"
+                        Spotify = "https://open.spotify.com/artist/3UgmI3Q2tO0TQZyU7KPaf9"
                     },
                     new Band
                     {
                         Name = "Red House Glory",
                         SoundCloud = "https://soundcloud.com/redhouseglory",
                         Twitter =  "https://twitter.com/redhouseglory",
-                        YouTube = "https://www.youtube.com/user/RedHouseGlory?feature=watch",
+                        YouTube = "https://www.youtube.com/user/RedHouseGlory",
                         ReverbNation =  "https://www.reverbnation.com/redhouseglory",
-                        Spotify = "https://open.spotify.com/artist/5auBAjRV1CbWduf2FZLhKr?"
+                        Spotify = "https://open.spotify.com/artist/5auBAjRV1CbWduf2FZLhKr"
                     }
                 };
                 context.Bands.AddRange(bandList);
