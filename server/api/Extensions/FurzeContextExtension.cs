@@ -1252,7 +1252,7 @@ namespace Furzify.API.Extensions
                                 Name = "500",
                                 Spotify = "https://open.spotify.com/track/3w3VG7hwvhqTM5d17s4d62",
                                 YouTubeMusic = "https://music.youtube.com/watch?v=aFLDhd7nIKA",
-                                Youtube = "https://youtube.com/watch?v=aFLDhd7nIKA"
+                                YouTube = "https://youtube.com/watch?v=aFLDhd7nIKA"
                             },
                             new Song
                             {
@@ -1338,7 +1338,7 @@ namespace Furzify.API.Extensions
                             {
                                 Name = "Day Job",
                                 Spotify = "https://open.spotify.com/track/5zYLfGRszWWIp2HGfQtDPs",
-                                YouTube = "https://music.youtube.com/watch?v=WFe-HbWfap0",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=WFe-HbWfap0",
                                 YouTube = "https://youtube.com/watch?v=7e7CKuWDOAQ"
 
                             },
