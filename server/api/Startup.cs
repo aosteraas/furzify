@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Furzify.API.Entities;
+using Furzify.API.Extensions;
 using Furzify.API.Interfaces;
 using Furzify.API.Services;
 using Microsoft.AspNetCore.Builder;
