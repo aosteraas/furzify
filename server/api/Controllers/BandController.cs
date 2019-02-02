@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using Furzify.API.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,9 +13,10 @@ namespace Furzify.API.Controllers
             _bandService = bandService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return Ok("Nothing to see here");
+            var bands = await _bandService.ListBandsAsync();
+            return Ok(bands);
         }
     }
 }
