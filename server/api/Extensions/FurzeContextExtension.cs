@@ -850,10 +850,10 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Mrs World Peace",
-                                Spotify = "https://open.spotify.com/track/6u3sWa7d3YDOys6z0AqA7F?si=zmnBO3S9Rz6kgW556v-OIQ",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=ZjattYNoM_Q&feature=share",
+                                Spotify = "https://open.spotify.com/track/6u3sWa7d3YDOys6z0AqA7F",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=ZjattYNoM_Q",
                                 YouTube = "https://www.youtube.com/watch?v=ZjattYNoM_Q",
-                                AppleMusic = "https://itunes.apple.com/au/album/mrs-world-peace/1441026306?i=1441026308"
+                                AppleMusic = "https://itunes.apple.com/au/album/mrs-world-peace/1441026306"
                             }
                         },
                         Name = "Machine Gun Men",
@@ -870,8 +870,8 @@ namespace Furzify.API.Extensions
                             {
                                 Name = "Back on Track",
                                 Spotify = "https://open.spotify.com/track/4JyV4225znU2FWlEUdbAVJ",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=Y5YX3Yg5aOc&feature=share",
-                                AppleMusic = "https://itunes.apple.com/au/album/back-on-track/878995561?i=878995567"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=Y5YX3Yg5aOc",
+                                AppleMusic = "https://itunes.apple.com/au/album/back-on-track/878995561"
                             }
                         },
                         Name = "10 to Go",
@@ -881,7 +881,7 @@ namespace Furzify.API.Extensions
                         SoundCloud = "https://soundcloud.com/10-to-go",
                         YouTube = "https://www.youtube.com/user/10TOGOBAND",
                         ReverbNation =  "https://www.reverbnation.com/10togoband",
-                        Spotify = "https://open.spotify.com/artist/1DLBD6Rhp3kKjzamA9lULf?-a399psw1ZrGA"
+                        Spotify = "https://open.spotify.com/artist/1DLBD6Rhp3kKjzamA9lULf"
                     },
                     new Band
                     {
@@ -890,18 +890,18 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Sleep Softly",
-                                Spotify = "https://open.spotify.com/track/6GhK8EIn9u13p7CxTgRohm?si=xFNVwa0ETp-0_F06L3aPMg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=-0z3q1U1ZEA&feature=share",
+                                Spotify = "https://open.spotify.com/track/6GhK8EIn9u13p7CxTgRohm",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=-0z3q1U1ZEA",
                                 YouTube = "https://www.youtube.com/watch?v=-0z3q1U1ZEA",
-                                AppleMusic = "https://itunes.apple.com/au/album/sleep-softly/1419799861?i=1419800115"
+                                AppleMusic = "https://itunes.apple.com/au/album/sleep-softly/1419799861"
                             },
                             new Song
                             {
                                 Name = "The Ego and the Universe",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=4vn5S0DaCss&feature=share",
-                                YouTube = "https://youtube.com/watch?v=4vn5S0DaCss&feature=share",
-                                Spotify = "https://open.spotify.com/track/7lZPoN4alY9LXiKglR0JZb?si=jPnFk9lEQ7qSWDU6UxwKnA",
-                                AppleMusic = "https://itunes.apple.com/au/album/the-ego-and-the-universe/1419799861?i=1419800116"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=4vn5S0DaCss",
+                                YouTube = "https://youtube.com/watch?v=4vn5S0DaCss",
+                                Spotify = "https://open.spotify.com/track/7lZPoN4alY9LXiKglR0JZb",
+                                AppleMusic = "https://itunes.apple.com/au/album/the-ego-and-the-universe/1419799861"
                             }
                         },
                         Name = "21 Taras",
@@ -927,44 +927,44 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Run Away",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=ZZ-ezgTOqdA&feature=share",
-                                YouTube = "https://youtube.com/watch?v=ZZ-ezgTOqdA&feature=share"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=ZZ-ezgTOqdA",
+                                YouTube = "https://youtube.com/watch?v=ZZ-ezgTOqdA"
                             },
                             new Song
                             {
                                 Name = "Simply Unknown",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=0coZbozsATA&feature=share",
-                                YouTube = "https://youtube.com/watch?v=0coZbozsATA&feature=share"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=0coZbozsATA",
+                                YouTube = "https://youtube.com/watch?v=0coZbozsATA"
                             },
                             new Song
                             {
                                 Name = "Unhinged",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=pN7MnLVpsi0&feature=share",
-                                YouTube = "https://youtube.com/watch?v=pN7MnLVpsi0&feature=share"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=pN7MnLVpsi0",
+                                YouTube = "https://youtube.com/watch?v=pN7MnLVpsi0"
                             },
                             new Song
                             {
                                 Name = "...Reprisal",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=M8R4o9Q_9wM&feature=share",
-                                YouTube = "https://youtube.com/watch?v=M8R4o9Q_9wM&feature=share"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=M8R4o9Q_9wM",
+                                YouTube = "https://youtube.com/watch?v=M8R4o9Q_9wM"
                             },
                             new Song
                             {
                                 Name = "Mixed Emotions",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=MKqqwrm5bkY&feature=share",
-                                YouTube = "https://youtube.com/watch?v=MKqqwrm5bkY&feature=share"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=MKqqwrm5bkY",
+                                YouTube = "https://youtube.com/watch?v=MKqqwrm5bkY"
                             },
                             new Song
                             {
                                 Name = "Lush",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=wi-AGQDVmwE&feature=share",
-                                YouTube = "https://youtube.com/watch?v=wi-AGQDVmwE&feature=share"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=wi-AGQDVmwE",
+                                YouTube = "https://youtube.com/watch?v=wi-AGQDVmwE"
                             },
                             new Song
                             {
                                 Name = "Another Day",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=icdmf9cp-8E&feature=share",
-                                YouTube = "https://youtube.com/watch?v=icdmf9cp-8E&feature=share",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=icdmf9cp-8E",
+                                YouTube = "https://youtube.com/watch?v=icdmf9cp-8E",
                             }
 
                         },
@@ -980,16 +980,16 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Jaded",
-                                Spotify = "https://open.spotify.com/track/5AjEvb82v6V1B8cDBcjd1v?si=f5FeWCv_QmScZuJMYom63Q",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=vOmcpoHIT8Y&feature=share",
-                                YouTube = "https://youtube.com/watch?v=vOmcpoHIT8Y&feature=share"
+                                Spotify = "https://open.spotify.com/track/5AjEvb82v6V1B8cDBcjd1v",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=vOmcpoHIT8Y",
+                                YouTube = "https://youtube.com/watch?v=vOmcpoHIT8Y"
                             },
                             new Song
                             {
                                 Name = "TV Killed the Radio Star",
-                                Spotify = "https://open.spotify.com/track/50Pd612L5fYj0fmkCHLS2h?si=xvpZobUIRpWhbiPoF93lxg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=Iqfiu6GAuG8&feature=share",
-                                YouTube = "https://youtube.com/watch?v=Iqfiu6GAuG8&feature=share"
+                                Spotify = "https://open.spotify.com/track/50Pd612L5fYj0fmkCHLS2h",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=Iqfiu6GAuG8",
+                                YouTube = "https://youtube.com/watch?v=Iqfiu6GAuG8"
                             }
 
                         },
@@ -1009,28 +1009,28 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Last Shot",
-                                Spotify = "https://open.spotify.com/track/62BjSUgYbddsWP4TO4uF8Z?si=LsxGnGjAQgamrLpo6KqORQ",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=Uw7OXczclBE&feature=share",
-                                YouTube = "https://youtube.com/watch?v=Uw7OXczclBE&feature=share"
+                                Spotify = "https://open.spotify.com/track/62BjSUgYbddsWP4TO4uF8Z",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=Uw7OXczclBE",
+                                YouTube = "https://youtube.com/watch?v=Uw7OXczclBE"
                             },
                             new Song
                             {
                                 Name = "Always Forward",
-                                Spotify = "https://open.spotify.com/track/7t3snGgyFDc2DUW6uNrXej?si=VIWKVlY8TJSSHT5FD9gsJg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=qJkel4DyYGg&feature=share",
-                                YouTube = "https://youtube.com/watch?v=qJkel4DyYGg&feature=share"
+                                Spotify = "https://open.spotify.com/track/7t3snGgyFDc2DUW6uNrXej",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=qJkel4DyYGg",
+                                YouTube = "https://youtube.com/watch?v=qJkel4DyYGg"
                             },
                             new Song
                             {
                                 Name = "Can't Argue",
-                                Spotify = "https://open.spotify.com/track/2IIltlQvLZH8Q14fg352hx?si=-EnZuNiIRIWCu4rozWGLwA",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=e9i2Xj5oJrM&feature=share",
-                                YouTube = "https://youtube.com/watch?v=e9i2Xj5oJrM&feature=share"
+                                Spotify = "https://open.spotify.com/track/2IIltlQvLZH8Q14fg352hx",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=e9i2Xj5oJrM",
+                                YouTube = "https://youtube.com/watch?v=e9i2Xj5oJrM"
                             },
                             new Song
                             {
                                 Name = "Adventures",
-                                Spotify = "https://open.spotify.com/track/2eDxmnabWlzaMIPcmYSib2?si=hFwHHVjPScO8mMiD94wNCg",
+                                Spotify = "https://open.spotify.com/track/2eDxmnabWlzaMIPcmYSib2",
 
                             }
 
@@ -1041,7 +1041,7 @@ namespace Furzify.API.Extensions
                         SoundCloud = "https://soundcloud.com/aliveagain-1",
                         Facebook = "https://www.facebook.com/AliveAgainMusic",
                         Instagram = "https://www.instagram.com/aliveagainmusic",
-                        Spotify = "https://open.spotify.com/artist/6Viw98QZPbKJtOkJNAPB2P?-XdSKCYQS2EmTQAvA",
+                        Spotify = "https://open.spotify.com/artist/6Viw98QZPbKJtOkJNAPB2P",
                         YouTube = "https://www.youtube.com/user/AliveAgainOfficial"
                     },
                     new Band
@@ -1051,9 +1051,9 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Ginchy",
-                                Spotify = "https://open.spotify.com/track/2fmk97MV8ua68s2kYqWzjH?si=SbewUcqRQ_qzfc_iUomutQ",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=AAvrSWSCGwM&feature=share",
-                                YouTube = "https://youtube.com/watch?v=AAvrSWSCGwM&feature=share"
+                                Spotify = "https://open.spotify.com/track/2fmk97MV8ua68s2kYqWzjH",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=AAvrSWSCGwM",
+                                YouTube = "https://youtube.com/watch?v=AAvrSWSCGwM"
                             }
                         },
                         Name = "Balu & die Surfgrammeln",
@@ -1071,14 +1071,14 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "She Will be Known",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=DWZHgpz0oig&feature=share",
-                                YouTube = "https://youtube.com/watch?v=DWZHgpz0oig&feature=share"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=DWZHgpz0oig",
+                                YouTube = "https://youtube.com/watch?v=DWZHgpz0oig"
                             },
                             new Song
                             {
                                 Name = "Give it All",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=CZ0gRNCiEjU&feature=share",
-                                YouTube = "https://youtube.com/watch?v=CZ0gRNCiEjU&feature=share"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=CZ0gRNCiEjU",
+                                YouTube = "https://youtube.com/watch?v=CZ0gRNCiEjU"
                             },
                             new Song
                             {
@@ -1103,14 +1103,14 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "The Hour Between Dog and Wolf",
-                                Spotify = "https://open.spotify.com/track/4UZf9QlctIIBYGvD0ioqrO?si=Bye6XflEQH-CbMlLtkM_rQ",
+                                Spotify = "https://open.spotify.com/track/4UZf9QlctIIBYGvD0ioqrO",
                             }
                         },
                         Name = "BarCreeps",
                         Bandcamp =  "https://barcreeps.bandcamp.com/releases",
                         Facebook = "https://www.facebook.com/BarCreeps/",
                         Twitter =  "https://twitter.com/barcreepsband",
-                        Spotify = "https://open.spotify.com/artist/4TYRMMe5TS85Gz7iG9yf7q?-Q",
+                        Spotify = "https://open.spotify.com/artist/4TYRMMe5TS85Gz7iG9yf7q",
                         SoundCloud = "https://soundcloud.com/barcreepsband"
                     },
                     new Band
@@ -1120,9 +1120,9 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Forest Walks",
-                                Spotify = "https://open.spotify.com/track/088u8jMWU7eTeItEFsIX0w?si=YKKB7JUyQiKMNVIzTgtMIg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=80vr7O9NbgM&feature=share",
-                                YouTube = "https://youtube.com/watch?v=80vr7O9NbgM&feature=share"
+                                Spotify = "https://open.spotify.com/track/088u8jMWU7eTeItEFsIX0w",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=80vr7O9NbgM",
+                                YouTube = "https://youtube.com/watch?v=80vr7O9NbgM"
                             }
                         },
                         Name = "Bear Shoe",
@@ -1140,9 +1140,9 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "In My Head",
-                                Spotify = "https://open.spotify.com/track/6HhjifmapSYKrlId6z3XNn?si=JrvqRRb1TEWULtKUyW_8pg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=qOp_lZZIcwU&feature=share",
-                                YouTube = "https://youtube.com/watch?v=qOp_lZZIcwU&feature=share"
+                                Spotify = "https://open.spotify.com/track/6HhjifmapSYKrlId6z3XNn",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=qOp_lZZIcwU",
+                                YouTube = "https://youtube.com/watch?v=qOp_lZZIcwU"
                             }
                         },
                         Name = "Bedside Manners",
@@ -1159,23 +1159,23 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Street Rat",
-                                Spotify = "https://open.spotify.com/track/7tD7xLaVvxRUdEzXIqAA7w?si=6N_40WmLSHKxdSA1UpqNsA",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=UrBMZdT1_1w&feature=share",
-                                YouTube = "https://youtube.com/watch?v=UrBMZdT1_1w&feature=share"
+                                Spotify = "https://open.spotify.com/track/7tD7xLaVvxRUdEzXIqAA7w",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=UrBMZdT1_1w",
+                                YouTube = "https://youtube.com/watch?v=UrBMZdT1_1w"
                             },
                             new Song
                             {
                                 Name = "Sedgwick",
-                                Spotify = "https://open.spotify.com/track/4X4I2SArIWIMd6s15HkJy2?si=RWmM-SnrSQCR25mpR5LPuw",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=O8DRo9y9qMQ&feature=share",
-                                YouTube = "https://youtube.com/watch?v=O8DRo9y9qMQ&feature=share"
+                                Spotify = "https://open.spotify.com/track/4X4I2SArIWIMd6s15HkJy2",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=O8DRo9y9qMQ",
+                                YouTube = "https://youtube.com/watch?v=O8DRo9y9qMQ"
                             },
                             new Song
                             {
                                 Name = "High Life",
-                                Spotify = "https://open.spotify.com/track/39CMpF3LvpHFcejxTluHYM?si=cL8sYyhtTWah2I_tTZnGhg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=u1pOEJJKuMg&feature=share",
-                                YouTube = "https://youtube.com/watch?v=u1pOEJJKuMg&feature=share"
+                                Spotify = "https://open.spotify.com/track/39CMpF3LvpHFcejxTluHYM",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=u1pOEJJKuMg",
+                                YouTube = "https://youtube.com/watch?v=u1pOEJJKuMg"
                             }
 
                         },
@@ -1192,15 +1192,15 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Taps Aff",
-                                Spotify = "https://open.spotify.com/track/33KTAQ1BCvRrh4Y2CwlK8k?si=chjkc8L2QvKMqgbAZ61c5g",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=j5Q3kmOwruQ&feature=share",
-                                YouTube = "https://youtube.com/watch?v=j5Q3kmOwruQ&feature=share"
+                                Spotify = "https://open.spotify.com/track/33KTAQ1BCvRrh4Y2CwlK8k",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=j5Q3kmOwruQ",
+                                YouTube = "https://youtube.com/watch?v=j5Q3kmOwruQ"
                             },
                             new Song
                             {
                                 Name = "Your Superior (his inferior)",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=PlFvdXLtrtk&feature=share",
-                                YouTube = "https://youtube.com/watch?v=PlFvdXLtrtk&feature=share"
+                                YouTubeMusic = "https://music.youtube.com/watch?v=PlFvdXLtrtk",
+                                YouTube = "https://youtube.com/watch?v=PlFvdXLtrtk"
                             }
                         },
                         Name = "Big Beard",
@@ -1215,103 +1215,103 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Animals",
-                                Spotify = "https://open.spotify.com/track/1uLq8rN4NHpNXYbi4JfdEX?si=_rzhJK7LRbuQR8G1uDjFSw",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=AY7jg3kE0UU&feature=share",
-                                YouTube = "https://youtube.com/watch?v=AY7jg3kE0UU&feature=share"
+                                Spotify = "https://open.spotify.com/track/1uLq8rN4NHpNXYbi4JfdEX",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=AY7jg3kE0UU",
+                                YouTube = "https://youtube.com/watch?v=AY7jg3kE0UU"
                             },
                             new Song
                             {
                                 Name = "Rooftops",
-                                Spotify = "https://open.spotify.com/track/0nwYWJDuOz6EW71aR3ro8y?si=82KrrCOCSt2d-9eBlxpkEA",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=m-F8GPMPzbA&feature=share",
-                                YouTube = "https://youtube.com/watch?v=m-F8GPMPzbA&feature=share"
+                                Spotify = "https://open.spotify.com/track/0nwYWJDuOz6EW71aR3ro8y",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=m-F8GPMPzbA",
+                                YouTube = "https://youtube.com/watch?v=m-F8GPMPzbA"
                             },
                             new Song
                             {
                                 Name = "Dead at 21",
-                                Spotify = "https://open.spotify.com/track/4vWP2qTHuGH9WfLNxMEBqS?si=w1722cNwTL6wnTBuVTvKwg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=9Kn3kH-TYsc&feature=share",
-                                YouTube = "https://youtube.com/watch?v=9Kn3kH-TYsc&feature=share"
+                                Spotify = "https://open.spotify.com/track/4vWP2qTHuGH9WfLNxMEBqS",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=9Kn3kH-TYsc",
+                                YouTube = "https://youtube.com/watch?v=9Kn3kH-TYsc"
                             },
                             new Song
                             {
                                 Name = "Gasoline",
-                                Spotify = "https://open.spotify.com/track/76msrzkd9Y2hDHv5NLpofg?si=o9JKKBkFQBeL8M6WNAMC5w",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=E04mn-1yQEE&feature=share",
-                                YouTube = "https://youtube.com/watch?v=E04mn-1yQEE&feature=share"
+                                Spotify = "https://open.spotify.com/track/76msrzkd9Y2hDHv5NLpofg",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=E04mn-1yQEE",
+                                YouTube = "https://youtube.com/watch?v=E04mn-1yQEE"
                             },
                             new Song
                             {
                                 Name = "Ghost",
-                                Spotify = "https://open.spotify.com/track/4HagQ43LqfxrjQ2hgB6XCU?si=BxiU7877Q0qrNoiyPqJYuA",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=bxgXXjPkkPA&feature=share",
-                                YouTube = "https://youtube.com/watch?v=bxgXXjPkkPA&feature=share"
+                                Spotify = "https://open.spotify.com/track/4HagQ43LqfxrjQ2hgB6XCU",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=bxgXXjPkkPA",
+                                YouTube = "https://youtube.com/watch?v=bxgXXjPkkPA"
                             },
                             new Song
                             {
                                 Name = "500",
-                                Spotify = "https://open.spotify.com/track/3w3VG7hwvhqTM5d17s4d62?si=hGAjSxkdQV68N49NV84Fbg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=aFLDhd7nIKA&feature=share",
-                                Youtube = "https://youtube.com/watch?v=aFLDhd7nIKA&feature=share"
+                                Spotify = "https://open.spotify.com/track/3w3VG7hwvhqTM5d17s4d62",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=aFLDhd7nIKA",
+                                Youtube = "https://youtube.com/watch?v=aFLDhd7nIKA"
                             },
                             new Song
                             {
                                 Name = "Seven",
-                                Spotify = "https://open.spotify.com/track/7INY6nq5D06yP2ZQOPC3C8?si=p8fjlvC5SqS-0AEhdNWz_w",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=C949IYcdUBk&feature=share",
-                                YouTube = "https://youtube.com/watch?v=C949IYcdUBk&feature=share"
+                                Spotify = "https://open.spotify.com/track/7INY6nq5D06yP2ZQOPC3C8",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=C949IYcdUBk",
+                                YouTube = "https://youtube.com/watch?v=C949IYcdUBk"
                             },
                             new Song
                             {
                                 Name = "Red",
-                                Spotify = "https://open.spotify.com/track/4xbh3H6jXyGqlekWPiCPjR?si=ZuqlR_A9ShWIoPA75a-ikg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=ziqegNX-E60&feature=share",
-                                YouTube = "https://youtube.com/watch?v=ziqegNX-E60&feature=share"
+                                Spotify = "https://open.spotify.com/track/4xbh3H6jXyGqlekWPiCPjR",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=ziqegNX-E60",
+                                YouTube = "https://youtube.com/watch?v=ziqegNX-E60"
                             },
                             new Song
                             {
                                 Name = "Repulsive Minds",
-                                Spotify = "https://open.spotify.com/track/3Yv4bWqql22uC6lWBg3l1R?si=1qbmnKH_QLS6q4YM2F-cUg",
+                                Spotify = "https://open.spotify.com/track/3Yv4bWqql22uC6lWBg3l1R",
                             },
                             new Song
                             {
                                 Name = "L-X",
-                                Spotify = "https://open.spotify.com/track/6bnTec10PJuKr1RRWQZKG1?si=sD26kHQTRlyxetoS9cU0Ew",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=gTDDxefiTqI&feature=share",
-                                YouTube = "https://youtube.com/watch?v=gTDDxefiTqI&feature=share"
+                                Spotify = "https://open.spotify.com/track/6bnTec10PJuKr1RRWQZKG1",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=gTDDxefiTqI",
+                                YouTube = "https://youtube.com/watch?v=gTDDxefiTqI"
                             },
                             new Song
                             {
                                 Name = "Depression",
-                                Spotify = "https://open.spotify.com/track/6Sqn0M8WwuHttmOSDCTdjJ?si=TT1dp2QLSq6zHqJBF2v-Fg",
+                                Spotify = "https://open.spotify.com/track/6Sqn0M8WwuHttmOSDCTdjJ",
                             },
                             new Song
                             {
                                 Name = "Suicide City",
-                                Spotify = "https://open.spotify.com/track/4PxjoJ0yqPohLpv1rvxeSK?si=Lf_4iL7nTbuotQYJmiAhVA",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=ATiO-DJr3fI&feature=share",
-                                YouTube = "https://youtube.com/watch?v=ATiO-DJr3fI&feature=share"
+                                Spotify = "https://open.spotify.com/track/4PxjoJ0yqPohLpv1rvxeSK",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=ATiO-DJr3fI",
+                                YouTube = "https://youtube.com/watch?v=ATiO-DJr3fI"
                             },
                             new Song
                             {
                                 Name = "These Hospital Halls",
-                                Spotify = "https://open.spotify.com/track/0sCjpo5NuNi9XB8ziWSGAn?si=A1pLLS6kSuSM1HZ_RY_kFg",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=dAv7KXmemIQ&feature=share",
-                                YouTube = "https://youtube.com/watch?v=dAv7KXmemIQ&feature=share"
+                                Spotify = "https://open.spotify.com/track/0sCjpo5NuNi9XB8ziWSGAn",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=dAv7KXmemIQ",
+                                YouTube = "https://youtube.com/watch?v=dAv7KXmemIQ"
                             },
                             new Song
                             {
                                 Name = "Hank",
-                                Spotify = "https://open.spotify.com/track/6Rqn7BrUEydjGPjPmmBdxa?si=pYg9szqPSmKaNFwY4hrE2g",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=0S66M483wLc&feature=share",
-                                YouTube = "https://youtube.com/watch?v=0S66M483wLc&feature=share"
+                                Spotify = "https://open.spotify.com/track/6Rqn7BrUEydjGPjPmmBdxa",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=0S66M483wLc",
+                                YouTube = "https://youtube.com/watch?v=0S66M483wLc"
                             },
                             new Song
                             {
                                 Name = "I Need a Doctor",
-                                Spotify = "https://open.spotify.com/track/29zxqx21fTEN7vGUbVSkhk?si=TPx9iBIVSwOelCrC4Qkesw",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=9HA1_N996ts&feature=share",
-                                YouTube = "https://youtube.com/watch?v=9HA1_N996ts&feature=share"
+                                Spotify = "https://open.spotify.com/track/29zxqx21fTEN7vGUbVSkhk",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=9HA1_N996ts",
+                                YouTube = "https://youtube.com/watch?v=9HA1_N996ts"
                             }
 
                         },
@@ -1330,31 +1330,31 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Two Minutes",
-                                Spotify = "https://open.spotify.com/track/2RZ3iykgVdnK3rh2R3BMCI?si=hyUTsWq-ToWiEbaq6l5Gbw",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=6t2KVCaZpwA&feature=share",
-                                YouTube = "https://youtube.com/watch?v=n2DlK_ddWS4&feature=share"
+                                Spotify = "https://open.spotify.com/track/2RZ3iykgVdnK3rh2R3BMCI",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=6t2KVCaZpwA",
+                                YouTube = "https://youtube.com/watch?v=n2DlK_ddWS4"
                             },
                             new Song
                             {
                                 Name = "Day Job",
-                                Spotify = "https://open.spotify.com/track/5zYLfGRszWWIp2HGfQtDPs?si=JTq1rrNwSX6kuEyieMU9Lg",
-                                YouTube = "https://music.youtube.com/watch?v=WFe-HbWfap0&feature=share",
-                                YouTube = "https://youtube.com/watch?v=7e7CKuWDOAQ&feature=share"
+                                Spotify = "https://open.spotify.com/track/5zYLfGRszWWIp2HGfQtDPs",
+                                YouTube = "https://music.youtube.com/watch?v=WFe-HbWfap0",
+                                YouTube = "https://youtube.com/watch?v=7e7CKuWDOAQ"
 
                             },
                             new Song
                             {
                                 Name = "Mothers & Fathers",
-                                Spotify = "https://open.spotify.com/track/4FDkZIV7ecm8LAmMU5Etoy?si=1ZNSYFkxRXKZ9TwYnxQKhA",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=pGKGyArmIjo&feature=share",
-                                YouTube = "https://youtube.com/watch?v=k-hwZfDTOeg&feature=share"
+                                Spotify = "https://open.spotify.com/track/4FDkZIV7ecm8LAmMU5Etoy",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=pGKGyArmIjo",
+                                YouTube = "https://youtube.com/watch?v=k-hwZfDTOeg"
                             },
                             new Song
                             {
                                 Name = "Annabel",
-                                Spotify = "https://open.spotify.com/track/5Yd5R5R3q1pEV1inAWbnP3?si=FdmOliiDSdKk_gXmlHk2Dw",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=wYAsWMNa-n4&feature=share",
-                                YouTube = "https://music.youtube.com/watch?v=BRkMM9TjukI&feature=share"
+                                Spotify = "https://open.spotify.com/track/5Yd5R5R3q1pEV1inAWbnP3",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=wYAsWMNa-n4",
+                                YouTube = "https://music.youtube.com/watch?v=BRkMM9TjukI"
                             },
                         },
                         Name = "Brawlers",
@@ -1370,7 +1370,7 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "ESCapism",
-                                YouTube = "https://youtube.com/watch?v=iA-W5sAlt0M&feature=share"
+                                YouTube = "https://youtube.com/watch?v=iA-W5sAlt0M"
                             }
                         },
                         Name = "Color Walls",
@@ -1385,16 +1385,16 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Dark Star",
-                                Spotify = "https://open.spotify.com/track/2nOpdRWw86I4T5f42TTemT?si=-IJ4PlkES12L4rpzYdnUeQ",
-                                YouTube = "https://youtube.com/watch?v=XOhfM3MIMGo&feature=share",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=MB0bqNrSgmQ&feature=share"
+                                Spotify = "https://open.spotify.com/track/2nOpdRWw86I4T5f42TTemT",
+                                YouTube = "https://youtube.com/watch?v=XOhfM3MIMGo",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=MB0bqNrSgmQ"
                             },
                             new Song
                             {
                                 Name = "Tyrannosaurus Hex",
-                                Spotify = "https://open.spotify.com/track/7CYECvyqaE0Q2LqP9klpPq?si=NoeLZdWDQImORtomnFKKwQ",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=OAtJaKG1LOM&feature=share",
-                                YouTube = "https://music.youtube.com/watch?v=IXVOuQIPlqw&feature=share"
+                                Spotify = "https://open.spotify.com/track/7CYECvyqaE0Q2LqP9klpPq",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=OAtJaKG1LOM",
+                                YouTube = "https://music.youtube.com/watch?v=IXVOuQIPlqw"
                             }
                         },
                         Name = "Cybernetic Witch Cult",
@@ -1411,9 +1411,9 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Nico",
-                                Spotify = "https://open.spotify.com/track/54IY6s74eXfwuwNE6Z8563?si=fjAHpqdgQCuqR-3E6BlX_A",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=AFXhMEAkvr0&feature=share",
-                                YouTube = "https://music.youtube.com/watch?v=QFVyydWs8Fw&feature=share"
+                                Spotify = "https://open.spotify.com/track/54IY6s74eXfwuwNE6Z8563",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=AFXhMEAkvr0",
+                                YouTube = "https://music.youtube.com/watch?v=QFVyydWs8Fw"
 
                             }
                         },
@@ -1423,7 +1423,7 @@ namespace Furzify.API.Extensions
                         Twitter =  "http://twitter.com/thedeadpirates",
                         Facebook = "http://www.facebook.com/thedeadpirates",
                         Instagram = "https://www.instagram.com/thedeadpirates",
-                        Spotify = "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx?-zqRqiWMDonX19ziw",
+                        Spotify = "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx",
                         ReverbNation =  "https://www.reverbnation.com/deadpiratesusa"
                     },
                     new Band
@@ -1433,16 +1433,16 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Hopeless",
-                                Spotify = "https://open.spotify.com/track/00p02sA0ukSepMOgpmNf3e?si=AL3AjZ_zScyLFmbCjqINrA",
-                                YouTube = "https://youtube.com/watch?v=lWCqcIN0Y9g&feature=share",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=k8FLJgTQlck&feature=share"
+                                Spotify = "https://open.spotify.com/track/00p02sA0ukSepMOgpmNf3e",
+                                YouTube = "https://youtube.com/watch?v=lWCqcIN0Y9g",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=k8FLJgTQlck"
                             },
                             new Song
                             {
                                 Name = "Burning Hair",
-                                Spotify = "https://open.spotify.com/track/6mYIPNzcMto2z9HP4qMQ2b?si=UByJZN6YTBanN6Uk0K_jtQ",
-                                YouTube = "https://youtube.com/watch?v=bMiV7Mvv2nU&feature=share",
-                                YouTubeMusic = "https://music.youtube.com/watch?v=bMiV7Mvv2nU&feature=share"
+                                Spotify = "https://open.spotify.com/track/6mYIPNzcMto2z9HP4qMQ2b",
+                                YouTube = "https://youtube.com/watch?v=bMiV7Mvv2nU",
+                                YouTubeMusic = "https://music.youtube.com/watch?v=bMiV7Mvv2nU"
                             }
                         },
                         Name = "Diamond in the Dirt",
@@ -1461,14 +1461,14 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Anti-Social Syndrome",
-                                Spotify = "https://open.spotify.com/track/3UgzSzPMCJv6XYemC32jbb?si=XA6Ur0PoROe0TUJST4NTXw",
-                                YouTube = "https://youtube.com/watch?v=etdev6AvTZ4&feature=share",
+                                Spotify = "https://open.spotify.com/track/3UgzSzPMCJv6XYemC32jbb",
+                                YouTube = "https://youtube.com/watch?v=etdev6AvTZ4",
                             },
                             new Song
                             {
                                 Name = "False Hope",
-                                Spotify = "https://open.spotify.com/track/4x41390UE07xwu9tnbwsoS?si=JzZDlSJpS5iDNv9Au3DOXw",
-                                YouTube = "https://youtube.com/watch?v=i0rHJoGBDKE&feature=share"
+                                Spotify = "https://open.spotify.com/track/4x41390UE07xwu9tnbwsoS",
+                                YouTube = "https://youtube.com/watch?v=i0rHJoGBDKE"
                             }
                         },
                         Name = "Downtown District",
@@ -1498,7 +1498,7 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Nobody Cares but You",
-                                YouTube = "https://youtube.com/watch?v=SIUy5P3WXHA&feature=share"
+                                YouTube = "https://youtube.com/watch?v=SIUy5P3WXHA"
                             }
 
                         },
@@ -1525,7 +1525,7 @@ namespace Furzify.API.Extensions
                         Facebook = "https://www.facebook.com/firefences/",
                         ReverbNation =  "https://www.reverbnation.com/firefences",
                         YouTube = "https://www.youtube.com/user/FireFences",
-                        Spotify = "https://open.spotify.com/artist/4g8tkj4ffRf8bPObnAuZTl?si=7iqujzDDQGW5qK7m1XfPTA"
+                        Spotify = "https://open.spotify.com/artist/4g8tkj4ffRf8bPObnAuZTl"
                     },
                     new Band
                     {
@@ -1546,82 +1546,82 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "The Last Great Train Robbery",
-                                Spotify = "https://open.spotify.com/track/4Wi5BTtRNtX3mb2bDs1Vyi?si=YOIAm825R36Ij7TrEtVolA"
+                                Spotify = "https://open.spotify.com/track/4Wi5BTtRNtX3mb2bDs1Vyi"
                             },
                             new Song
                             {
                                 Name = "Tusen Takk",
-                                Spotify = "https://open.spotify.com/track/4jKet3ukiejU77ViqeISxA?si=CeHviXBrRqi0hAFF4vzt7A"
+                                Spotify = "https://open.spotify.com/track/4jKet3ukiejU77ViqeISxA"
                             },
                             new Song
                             {
                                 Name = "Like Gravity",
-                                Spotify = "https://open.spotify.com/track/6p3BFsLJVtkn7dAdN87atv?si=1IWULd1lTbS-LFtU5HzCzg"
+                                Spotify = "https://open.spotify.com/track/6p3BFsLJVtkn7dAdN87atv"
                             },
                             new Song
                             {
                                 Name = "Occams Razor",
-                                Spotify = "https://open.spotify.com/track/17m1hJs4ixmqqbDyQ5fZWr?si=6gh7y7OWSTey7l6vRDdeew"
+                                Spotify = "https://open.spotify.com/track/17m1hJs4ixmqqbDyQ5fZWr"
                             },
                             new Song
                             {
                                 Name = "Welcome Back to Nibelheim",
-                                Spotify = "https://open.spotify.com/track/3AAZxnxkPXG19tL56cpeZG?si=UyTK4VaMRVGP3AY-g30RKA"
+                                Spotify = "https://open.spotify.com/track/3AAZxnxkPXG19tL56cpeZG"
                             },
                             new Song
                             {
                                 Name = "Hectares",
-                                Spotify = "https://open.spotify.com/track/6tZHXVdr3cFOtQr0ctjG12?si=n8tMjWWBQIeNvFyipaTCeA"
+                                Spotify = "https://open.spotify.com/track/6tZHXVdr3cFOtQr0ctjG12"
                             },
                             new Song
                             {
                                 Name = "This Fight",
-                                Spotify = "https://open.spotify.com/track/79PADaB7EJQyIXrxHKsnRp?si=TjzEFVEWQZCWe3X6qJTyPw"
+                                Spotify = "https://open.spotify.com/track/79PADaB7EJQyIXrxHKsnRp"
                             },
                             new Song
                             {
                                 Name = "Idiot Check",
-                                Spotify = "https://open.spotify.com/track/6VwI8PsByeQHZZhQFOvDVo?si=7rkhCNPpTp6mwVLRXKFhGA"
+                                Spotify = "https://open.spotify.com/track/6VwI8PsByeQHZZhQFOvDVo"
                             },
                             new Song
                             {
                                 Name = "You Drove me to Taxidermy",
-                                Spotify = "https://open.spotify.com/track/2o1GCDSBhcD7nGKZr0YNV1?si=Ku_d5f_NTce5v6W0GmyKtw"
+                                Spotify = "https://open.spotify.com/track/2o1GCDSBhcD7nGKZr0YNV1"
                             },
                             new Song
                             {
                                 Name = "Magnetoscope",
-                                Spotify = "https://open.spotify.com/track/2azOkfSFuPNv38m7qnbQZv?si=8MbpEFT9QcKe5mg2ZP-rCw"
+                                Spotify = "https://open.spotify.com/track/2azOkfSFuPNv38m7qnbQZv"
                             },
                             new Song
                             {
                                 Name = "Magnetoscope",
-                                Spotify = "https://open.spotify.com/track/2azOkfSFuPNv38m7qnbQZv?si=8MbpEFT9QcKe5mg2ZP-rCw"
+                                Spotify = "https://open.spotify.com/track/2azOkfSFuPNv38m7qnbQZv"
                             },
                             new Song
                             {
                                 Name = "The People Are Revolting",
-                                Spotify = "https://open.spotify.com/track/0vGsEh6gEQXPovWGk9v9jc?si=Pf7C_o9JQE-SiVTy2PnndA"
+                                Spotify = "https://open.spotify.com/track/0vGsEh6gEQXPovWGk9v9jc"
                             },
                             new Song
                             {
                                 Name = "Altogether Not Together",
-                                Spotify = "https://open.spotify.com/track/5Wvqq3a6POzN3AJLEwzD1U?si=huR2azd-QxCqHr1m5b0P7A"
+                                Spotify = "https://open.spotify.com/track/5Wvqq3a6POzN3AJLEwzD1U"
                             },
                             new Song
                             {
                                 Name = "Gunnar Hansen",
-                                Spotify = "https://open.spotify.com/track/4Ge02OZyqwwqJI3WFPw8e0?si=pjijmB-sR8WXHJraPkZgZw"
+                                Spotify = "https://open.spotify.com/track/4Ge02OZyqwwqJI3WFPw8e0"
                             },
                             new Song
                             {
                                 Name = "Captain Buzzkill",
-                                Spotify = "https://open.spotify.com/track/6aambZWFjBEF0VjG6mvzqd?si=0_SSxFXcQl26fTU_HerjCg"
+                                Spotify = "https://open.spotify.com/track/6aambZWFjBEF0VjG6mvzqd"
                             },
                             new Song
                             {
                                 Name = "Annotate My Fate",
-                                Spotify = "https://open.spotify.com/track/1zsuwBqp2GliZjMtwjNBUp?si=c_S93os1Q163bNRSIvvolQ"
+                                Spotify = "https://open.spotify.com/track/1zsuwBqp2GliZjMtwjNBUp"
                             }
                         },
                         Name = "Freeze the Atlantic",
@@ -1629,7 +1629,7 @@ namespace Furzify.API.Extensions
                         Facebook = "https://www.facebook.com/freezetheatlantic",
                         Website =  "https://www.freezetheatlantic.co.uk",
                         YouTube = "https://www.youtube.com/user/freezetheatlanticuk",
-                        Spotify = "https://open.spotify.com/artist/4tEmJrqsn6ePHw8pbBz80B?si=12CZ1j8FRfC3N4XSuuwfRw"
+                        Spotify = "https://open.spotify.com/artist/4tEmJrqsn6ePHw8pbBz80B"
                     },
                     new Band
                     {
@@ -1638,7 +1638,7 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Thank You Polystyrene",
-                                Spotify = "https://open.spotify.com/track/3qBgd6C4UhmM55JEvS86gr?si=4kLWA6c6S-ekoHptYto_wg"
+                                Spotify = "https://open.spotify.com/track/3qBgd6C4UhmM55JEvS86gr"
                             }
                         },
                         Name = "Helen Love",
@@ -1654,28 +1654,39 @@ namespace Furzify.API.Extensions
                             new Song
                             {
                                 Name = "Hollow Out a Horse",
-                                Spotify = "https://open.spotify.com/track/2IEof9PZuXGjXIQr8riVWm?si=q6KKk5OVSQqhAMc8cb5w1w"
+                                Spotify = "https://open.spotify.com/track/2IEof9PZuXGjXIQr8riVWm"
                             },
                             new Song
                             {
                                 Name = "Open Mic",
-                                Spotify = "https://open.spotify.com/track/0iqdT5yVpfD51GcGkh0Okw?si=N0Quwek0TEmVXHKIhWKNeA"
+                                Spotify = "https://open.spotify.com/track/0iqdT5yVpfD51GcGkh0Okw"
 
                             },
                             new Song
                             {
                                 Name = "There's a Man",
-                                Spotify = "https://open.spotify.com/track/7vomxT43VX38GYqhmKTdQL?si=EIgg_ZK2R5W9OadnTFULdw"
+                                Spotify = "https://open.spotify.com/track/7vomxT43VX38GYqhmKTdQL"
 
                             },
                             new Song
                             {
                                 Name = "Lithuanian Mercedes",
-                                Spotify = "https://open.spotify.com/track/4wjKcNHalMq5sMNw9ETP3M?si=s4LTq_gzRoqg9r4ZuUfEXQ"
+                                Spotify = "https://open.spotify.com/track/4wjKcNHalMq5sMNw9ETP3M"
                             },
                             new Song
                             {
-
+                                Name = "Sir Puke",
+                                Spotify = "https://open.spotify.com/track/67UjgVpS5rqXqtHFr4EPDP"
+                            },
+                            new Song
+                            {
+                                Name = "Justin Vernon",
+                                Spotify = "https://open.spotify.com/track/4xCHlxRuGBV67Mjqmwj6D7"
+                            },
+                            new Song
+                            {
+                                Name = "Nietzsche",
+                                Spotify = "https://open.spotify.com/track/63yTKrEjN8dqHc1l7lomUV"
                             },
                         },
                         Name = "Her Parents",
@@ -1683,13 +1694,52 @@ namespace Furzify.API.Extensions
                         SoundCloud = "https://soundcloud.com/herparents",
                         Twitter = "https://twitter.com/herparents",
                         Facebook = "https://www.facebook.com/herparentsband",
-                        Spotify = "https://open.spotify.com/artist/3TT72KWJJAB7eI26351P1N?si=qVqIQyi3Qi6P47liD7xzyw"
+                        Spotify = "https://open.spotify.com/artist/3TT72KWJJAB7eI26351P1N"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song
+                            {
+                                Name = "Storm",
+                                Spotify = "https://open.spotify.com/track/0vI4ZiKxYVnjxYH25lLxNR"
+                            },
+                            new Song
+                            {
+                                Name = "Charity for Nothing",
+                                Spotify = "https://open.spotify.com/track/3tI0c34rIDa5XfeEgsfJ5r"
+                            },
+                            new Song
+                            {
+                                Name = "When Thoughts Collide",
+                                Spotify = "https://open.spotify.com/track/2m7Kc3v1TgWfwbDy7V86UI"
+                            },
+                            new Song
+                            {
+                                Name = "Scream it Out Loud",
+                                Spotify = "https://open.spotify.com/track/1BTZP3wYlQbjnq5L1QUGBc"
+                            },
+                            new Song
+                            {
+                                Name = "Restless",
+                                Spotify = "https://open.spotify.com/track/6PpU93sDFfGMKiv21dNoxe"
+                            },
+                            new Song
+                            {
+                                Name = "Lonely One",
+                                Spotify = "https://open.spotify.com/track/6MxcxUUOjCqDXgAQFoh8np"
+                            },
+                            new Song
+                            {
+                                Name = "Perfect World",
+                                Spotify = "https://open.spotify.com/track/2CjWYDHW9LxOX5zrkyrQm4"
+                            },
+                            new Song
+                            {
+                                Name = "The Silence",
+                                Spotify = "https://open.spotify.com/track/0URnJ5rvzVYRXkHu7CtOM0"
+                            }
                         },
                         Name = "Heroic",
                         Website =  "https://www.heroicofficial.com",
@@ -1703,7 +1753,10 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song
+                            {
+                                Name = "Lifetime Sentenced"
+                            }
                         },
                         Name = "Hexed",
                         Facebook = "https://www.facebook.com/hexeduk",
@@ -1716,20 +1769,28 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song
+                            {
+                                Name = "Tempo",
+                                Spotify = "https://open.spotify.com/track/6DU8kLZJHv1N3Bki2Uuzq7"
+                            }
                         },
                         Name = "Husky Loops",
                         SoundCloud = "https://soundcloud.com/husky-loops",
                         Facebook = "https://www.facebook.com/huskyloops/",
                         Website =  "https://huskyloops.com/",
                         Bandcamp =  "https://huskyloops.bandcamp.com/",
-                        Spotify = "https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9?si=An9GeemjRMObyxE9AfgiTQ"
+                        Spotify = "https://open.spotify.com/artist/1quz8ZBmFY2nzmoMcUXcX9"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song
+                            {
+                                Name = "High Gear Death Drive",
+                                Spotify = "https://open.spotify.com/track/0Z3tnFYZjlU9XPanAb9jOj"
+                            }
                         },
                         Name = "InCircles",
                         YouTube = "https://youtube.com/incirclesmusic/",
@@ -1742,17 +1803,19 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "DeJa Vu" }
                         },
                         Name = "Jakobi",
                         SoundCloud = "https://soundcloud.com/jakobi_band",
                         Twitter =  "https://twitter.com/jakobi_band",
                         Facebook = "https://soundcloud.com/incirclesmusic"
                     },
-                    new Band {
+                    new Band
+                    {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Start" },
+                            new Song { Name = "Better Left Unknown" },
                         },
                         Name = "James Gorringe",
                         Bandcamp =  "https://corrosionmedia.bandcamp.com",
@@ -1762,7 +1825,7 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Charlesyarnold" }
                         },
                         Name = "Jazzsub",
                         SoundCloud = "https://soundcloud.com/user7395477"
@@ -1771,14 +1834,18 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song
+                            {
+                                Name = "Little Bird",
+                                Spotify = "https://open.spotify.com/track/1YRqGRjE2aw28A4eQj934b"
+                            }
                         },
                         Name = "Jon Doe",
                         SoundCloud = "https://soundcloud.com/jondoeband",
                         Facebook = "https://www.facebook.com/jondoeofficial/",
                         Instagram = "https://www.instagram.com/jondoeofficial/",
                         YouTube = "https://www.youtube.com/channel/UCFUKMD3zyGH2pYwmC43eByQ",
-                        Spotify = "https://open.spotify.com/artist/01VrPMFh7LXpXjf2Yie2xc?si=X5vauyNnQYq4XHiTfIfrww"
+                        Spotify = "https://open.spotify.com/artist/01VrPMFh7LXpXjf2Yie2xc"
                     },
                     new Band
                     {
@@ -1789,7 +1856,7 @@ namespace Furzify.API.Extensions
                         Name = "LeSuits",
                         Facebook = "https://www.facebook.com/LeSuits",
                         ReverbNation =  "https://www.reverbnation.com/lesuits",
-                        Spotify = "https://open.spotify.com/artist/4kpOr94kzKVOS81W4C62VG?si=APDd8VULQfqFxYkdWTktag",
+                        Spotify = "https://open.spotify.com/artist/4kpOr94kzKVOS81W4C62VG",
                         Bandcamp =  "https://lesuits.bandcamp.com/",
                         YouTube = "https://www.youtube.com/user/LeSuitsBand",
                         SoundCloud = "https://soundcloud.com/lesuits"
@@ -1798,7 +1865,7 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Are You Feeling This" }
                         },
                         Name = "look Mum No Computer",
                         YouTube = "https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw",
@@ -1810,7 +1877,21 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song
+                            {
+                                Name = "You're Pretty Short for a Stormtrooper",
+                                Spotify = "https://open.spotify.com/track/2lclJHsiFawmFjRSZed1Wi"
+                            },
+                            new Song
+                            {
+                                Name = "Wake Up",
+                                Spotify = "https://open.spotify.com/track/5PkDkC6xBSzfyNHAIy0KtW"
+                            },
+                            new Song
+                            {
+                                Name = "Back Off! Or Be Deleted!",
+                                Spotify = "https://open.spotify.com/track/57krakvLa6IFt4v1KRyT0J"
+                            }
                         },
                         Name = "The Majority Theives",
                         SoundCloud = "https://soundcloud.com/the-majority-thieves",
@@ -1824,10 +1905,30 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Valentino", Spotify="https://open.spotify.com/track/5KyW4HmdUkrgL8ZwsIsrev" },
+                            new Song { Name = "Wall of Death", Spotify = "https://open.spotify.com/track/0smTmNUMp21SpE1M9gZJGs" },
+                            new Song { Name = "I'm Too Fat", Spotify = "https://open.spotify.com/track/7DYZNl6rfUfFenhT384lmG" },
+                            new Song { Name = "Stamford Cowboys", Spotify = "https://open.spotify.com/track/3dmaEIv6HIRbb2iRrp2pAB" },
+                            new Song { Name = "Big Bad Bob", Spotify = "https://open.spotify.com/track/5e4om7XUAaRQgAp7cUDRXV" },
+                            new Song { Name = "For Your Life", Spotify = "https://open.spotify.com/track/6qYrpraii8EPNF6tJFDd9y" },
+                            new Song { Name = "Drug Squad", Spotify = "https://open.spotify.com/track/5v4whJK0Qa1uZXG3xGk6Pj" },
+                            new Song { Name = "Nervous State", Spotify = "https://open.spotify.com/track/0EPcvD65PF0Qz7iiOpxZCI" },
+                            new Song { Name = "Stamford Stomp", Spotify = "https://open.spotify.com/track/1KLBy1vMBOoWWonAOXVCLj" },
+                            new Song { Name = "BMX Haircut", Spotify = "https://open.spotify.com/track/5ENYCpaUzBads2zLh1JHkh" },
+                            new Song { Name = "Whose Chicken?", Spotify = "https://open.spotify.com/track/7E58T38AfHzuu2gSadHa8w" },
+                            new Song { Name = "Clash Culture", Spotify = "https://open.spotify.com/album/0hXaP7ixfT5LFK6INdxqBG" },
+                            new Song { Name = "Nervous State, Pt. 3", Spotify = "https://open.spotify.com/track/5jxjFRb1JWjgWJsWGV8Uyy" },
+                            new Song { Name = "Like I Do", Spotify = "https://open.spotify.com/track/2sQ2ktRYMAqcsbE9LjaSDb" },
+                            new Song { Name = "The Job", Spotify = "https://open.spotify.com/track/0EfgceZUqw4ZVuiD65Ng4m" },
+                            new Song { Name = "Cereal Killer", Spotify = "https://open.spotify.com/track/6KKaz21bCQQhw02axzRMiF" },
+                            new Song { Name = "About You", Spotify = "https://open.spotify.com/track/6O3XtOj8INXt2tkWeatiZZ" },
+                            new Song { Name = "Tonight", Spotify = "https://open.spotify.com/track/1rhofUPnnuZy7CAdqefgZI" },
+                            new Song { Name = "Blues and Royals", Spotify = "https://open.spotify.com/track/2NfjWvgTfq1SdspgOT6unF" },
+                            new Song { Name = "Wrong 1", Spotify = "https://open.spotify.com/track/1K8zb91ezvAga3sbCiWGSs" },
+                            new Song { Name = "Norbert", Spotify = "https://open.spotify.com/track/0odB8n2oFm6JNnhG9Wdlge" },
                         },
                         Name = "March to the Grave",
-                        Spotify = "https://open.spotify.com/artist/5YmqJGG8xIoOwAtV0gCLL1?si=FM28pNc4SjGDnjtVGxL1Lw",
+                        Spotify = "https://open.spotify.com/artist/5YmqJGG8xIoOwAtV0gCLL1",
                         AppleMusic =  "https://itunes.apple.com/us/artist/march-to-the-grave/293740174",
                         Facebook = "https://www.facebook.com/groups/15191163875/"
                     },
@@ -1835,7 +1936,7 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Stubborn", Spotify = "https://open.spotify.com/track/5K1hjOuuXP1jnhhF7sHEu5" },
                         },
                         Name = "Mega Happy",
                         Facebook = "https://www.facebook.com/megahappyband/",
@@ -1846,7 +1947,9 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Vultures", Spotify = "https://open.spotify.com/track/4VjBBuvIEZTWGwKdMlYlof" },
+                            new Song { Name = "Sleep With Your Friends", Spotify = "https://open.spotify.com/track/5hxMuuflOyvJKqFUwfLPd8" },
+                            new Song { Name = "Don't Leave Me This Way", Spotify = "https://open.spotify.com/track/4SJ4YGx8WVR5jDLgkxAIEw" }
                         },
                         Name = "Murica",
                         Website =  "https://www.murica.co.uk",
@@ -1856,14 +1959,14 @@ namespace Furzify.API.Extensions
                         Twitter =  "https://twitter.com/MuricaBand",
                         SoundCloud = "https://soundcloud.com/user-760885415",
                         YouTube = "https://www.youtube.com/channel/UCIc9SpqchQWxNRzwwe7Qq3Q",
-                        Spotify = "https://open.spotify.com/artist/7L0oTSQ9gch8yI5gkV3kWi?si=SaA9dr_PQwmD_gwq3PRqPQ",
+                        Spotify = "https://open.spotify.com/artist/7L0oTSQ9gch8yI5gkV3kWi",
                         Instagram = "http://www.instagram.com/murica_music/"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Fragile", Spotify = "https://open.spotify.com/track/5Yg0J6oGlvRQVE2lP4VKHw" }
                         },
                         Name = "Murmur",
                         Instagram = "https://www.instagram.com/murmur.4u/",
@@ -1874,33 +1977,42 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Ooh Name", Spotify = "https://open.spotify.com/track/2XeE8Cr3R6gq0gcXkdY4H6" },
+                            new Song { Name = "Stay True to Yourself", Spotify = "https://open.spotify.com/track/0yQTfj5xzhXUADq1HTpNoQ" }
                         },
                         Name = "Noisy Way",
                         Bandcamp =  "https://noisyway.bandcamp.com",
                         Facebook = " https://www.facebook.com/noisyway",
                         SoundCloud = "https://soundcloud.com/noisyway",
-                        Spotify = "https://open.spotify.com/artist/7F2aGtkB6l4jpGDI4EY7xG?si=k5-_GZPeQQe9BNZZ131dRw"
+                        Spotify = "https://open.spotify.com/artist/7F2aGtkB6l4jpGDI4EY7xG"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
+                            new Song { Name = "Dislocated", Spotify = "https://open.spotify.com/track/1VPX29cO6e8ZQ3ouct8hWb" },
+                            new Song { Name = "I Guess This Is Progress", Spotify = "https://open.spotify.com/track/5K02LaCvFRvaGz547XvpW0" },
+                            new Song { Name = "Reasons to Smile", Spotify = "https://open.spotify.com/track/49WGIXvhHYaUL4tpswBEWC" },
+                            new Song { Name = "She's With You", Spotify = "https://open.spotify.com/track/7xDmOR4020DYGkWIpNmDsj" },
+                            new Song { Name = "Goodbye Kiss", Spotify = "https://open.spotify.com/track/7uZQgC6NRlEyI77EyLhkPV" },
+                            new Song { Name = "State of Confusion", Spotify = "https://open.spotify.com/track/522nEo2bfS2JG07OMV74yE" }
 
                         },
                         Name = "Not Tonight and the Headaches",
                         ReverbNation =  "https://www.reverbnation.com/nottonightandtheheadaches",
                         Facebook = "https://www.facebook.com/nottonightandtheheadaches/",
-                        Spotify = "https://open.spotify.com/artist/4TjE8uCC9sZcUtEPu4PRo0?si=zBSs39jDRECr8S8h1ijzEQ",
+                        Spotify = "https://open.spotify.com/artist/4TjE8uCC9sZcUtEPu4PRo0",
                         Bandcamp =  "https://nottonightandtheheadaches.bandcamp.com/"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
+                            new Song { Name = "Where Did I Go Wrong?", Spotify = "https://open.spotify.com/track/6dXJqDj4zYs0ACGCiCzRTX" },
 
                         },
                         Name = "Old Glory & The Back Riviera",
+                        Spotify = "https://open.spotify.com/artist/6vaGH2y9yPJ1OTYfQZwG3M",
                         Instagram = "https://www.instagram.com/oldgloryandtheblackriviera/",
                         Facebook = "https://www.facebook.com/oldgloryandtheblackriviera/"
                     },
@@ -1908,6 +2020,8 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
+                            new Song { Name = "Airplane", Spotify = "https://open.spotify.com/track/4Fk46Df38txNmCjK2NYgFd" },
+
 
                         },
                         Name = "Rescape",
@@ -1916,25 +2030,28 @@ namespace Furzify.API.Extensions
                         YouTube = "https://www.youtube.com/channel/UCXXpZKiY8SSlkmPBg1B4eyA",
                         Twitter =  "https://twitter.com/RescapeOfficial",
                         SoundCloud = "https://soundcloud.com/RescapeOfficial",
-                        Spotify = "https://open.spotify.com/artist/475AV9KmKsy8QdxMnyL16k?si=26qEvqYUTgKXNpLsHv4tLQ"
+                        Spotify = "https://open.spotify.com/artist/475AV9KmKsy8QdxMnyL16k"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Rrose Sélavy (To Make a Toast to Life)", Spotify = "https://open.spotify.com/track/6nj1JZVutvUlCNgqn4goDQ" },
+                            new Song { Name = "The Establishment", Spotify = "https://open.spotify.com/track/1AMMsLbfnx0fYnuDPKB5Di" },
                         },
                         Name = "Revenge of the Psychotronic Man",
                         ReverbNation =  "https://www.reverbnation.com/revengeofthepsychotronicman",
                         Facebook = "https://www.facebook.com/RevengeofthePsychotronicMan/",
                         Website =  "https://revengeofthepsychotronicman.com/",
                         Bandcamp =  "https://revengeofthepsychotronicman.bandcamp.com/",
-                        Spotify = "https://open.spotify.com/artist/1oRwUuzzAy8m9DsVvCaAmT?si=MgJWx4khRqy-GKSVAmuE4g"
+                        Spotify = "https://open.spotify.com/artist/1oRwUuzzAy8m9DsVvCaAmT"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
+                            new Song { Name = "Hitchin em up" },
+                            new Song { Name = "Tom Lambs Farm" },
 
                         },
                         Name = "Rick Simpson",
@@ -1944,23 +2061,36 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song
+                            {
+                                Name = "Boys in Suits",
+                                Spotify = "https://open.spotify.com/track/7lPxrttNRctXlwkBZ5xYpf"
+                            }
                         },
-                        Name = "RoomD",
+                        Name = "Room D",
                         Instagram = "https://www.instagram.com/_room_d/",
                         Facebook = "https://www.facebook.com/RoomDBand/",
                         Bandcamp =  "https://roomd.bandcamp.com/releases",
-                        Spotify = "https://open.spotify.com/artist/2pNGGUaw2rRAPz0FI71JIH?si=OHSdaDVFRbuqL9L1tc4WLg"
+                        Spotify = "https://open.spotify.com/artist/2pNGGUaw2rRAPz0FI71JIH"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song
+                            {
+                                Name = "Stuck",
+                                Spotify = "https://open.spotify.com/track/7pGHVAdBTXiSgtB2Pc6LnQ"
+                            },
+                            new Song
+                            {
+                                Name = "Meant to Be",
+                                Spotify = "https://open.spotify.com/track/4rKwlpgW0icYtIkfLMr1m8"
+                            }
                         },
                         Name = "Second Opinion",
                         Bandcamp =  "https://secondopinionband.bandcamp.com",
-                        Spotify = "https://open.spotify.com/artist/2ZJ2WlhjP3cu1lXKuz0pSC?si=q3W3OlnwSpexAYwlxlNnkA",
+                        Spotify = "https://open.spotify.com/artist/2ZJ2WlhjP3cu1lXKuz0pSC",
                         YouTube = "https://www.youtube.com/channel/UCiefctwVK83xVADai0Uk-6w",
                         Instagram = "https://www.instagram.com/secondopinion_band/",
                         SoundCloud = "https://soundcloud.com/second_opinion",
@@ -1971,7 +2101,7 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Brokenhearted", Spotify = "https://open.spotify.com/track/5tzTZUThyQROsRGz0YpmDp" }
                         },
                         Name = "Skittle Alley",
                         Website =  "http://www.skittlealley.de",
@@ -1984,9 +2114,10 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Snakes", Spotify = "https://open.spotify.com/track/36ipS3MDQsCVhzbG0DkluL" },
+                            new Song { Name = "Cocodomore", Spotify = "https://open.spotify.com/track/3y05w9TjqesBn8i3DUVibM" },
                         },
-                        Name = "St Johns Ambiance",
+                        Name = "St John's Ambiance",
                         Bandcamp =  "https://stjohnsambience.bandcamp.com",
                         Facebook = "https://www.facebook.com/StJohnsAmbience.Glasgow/",
                         SoundCloud = "https://soundcloud.com/st-johns-ambience"
@@ -1995,7 +2126,7 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Come Back", Spotify = "https://open.spotify.com/track/7lXGmspyH5PScuMhBSW2wh" },
                         },
                         Name = "Subtastics",
                         Facebook = "https://www.facebook.com/subtastics",
@@ -2003,13 +2134,14 @@ namespace Furzify.API.Extensions
                         Twitter =  "https://twitter.com/subtastics",
                         Instagram = "https://www.instagram.com/subtastics/",
                         Website =  "https://www.snubbedrecords.com/",
-                        Spotify = "https://open.spotify.com/artist/1fxv86YUmy6MG0U46eTnKc?si=4eaIX-p-RjOOb76E24MyYg"
+                        Spotify = "https://open.spotify.com/artist/1fxv86YUmy6MG0U46eTnKc"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Lowlife" },
+                            new Song { Name = "Gilbert" },
                         },
                         Name = "Swimming",
                         Bandcamp =  "https://swimmingswam.bandcamp.com/",
@@ -2019,7 +2151,7 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Punk Rock Flu", Spotify = "https://open.spotify.com/track/31vE1DzGSrg3x1VJMDcp1Z" },
                         },
                         Name = "The Friday Prophets",
                         Facebook = "https://www.facebook.com/pg/TheFridayProphets/",
@@ -2034,18 +2166,22 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Let's Build a Home", Spotify = "https://open.spotify.com/track/1L2RBBrnjKZllCkNcgp4Ev" },
+                            new Song { Name = "Snowsurfin", Spotify = "https://open.spotify.com/track/01C7uvsx2g1OEzpzhsqrqb" }
                         },
                         Name = "The Hops Party",
                         Facebook = "https://www.facebook.com/thehopsparty/",
                         Bandcamp =  "https://thehopsparty.bandcamp.com/",
-                        Spotify = "https://open.spotify.com/artist/0yUazoMydbFDI0LcyupSji?si=CGprEZQ9TYuBo0l_HqeebQ"
+                        Spotify = "https://open.spotify.com/artist/0yUazoMydbFDI0LcyupSji"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Speedy Gonzales" },
+                            new Song { Name = "Lightbulb" },
+                            new Song { Name = "Chisel" },
+                            new Song { Name = "I'm OK" },
                         },
                         Name = "The Rival",
                         Twitter =  "http://www.twitter.com/bobbyhalick",
@@ -2055,21 +2191,22 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Broken Guts", Spotify = "https://open.spotify.com/track/6yJTSLfUEKBA9GRG2KEgMW" }
                         },
                         Name = "The Spills",
                         Facebook = "https://www.facebook.com/thespills/",
                         Website =  "http://www.thespills.co.uk/",
                         Twitter =  "https://twitter.com/thespillsband",
                         YouTube = "https://www.youtube.com/channel/UCfG8kiHDeOczR5449-4qGgw",
-                        Spotify = "https://open.spotify.com/artist/4I75d70tDjMNn2NAnp0I2E?si=698x0CMDR52dwLbLv_Wj5g",
+                        Spotify = "https://open.spotify.com/artist/4I75d70tDjMNn2NAnp0I2E",
                         Bandcamp =  "https://thespills.bandcamp.com/"
                     },
                     new Band
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Get Through", Spotify = "https://open.spotify.com/track/5uh26LpOxHOFcl5DL6qjbe" },
+                            new Song { Name = "Six Inches", Spotify = "https://open.spotify.com/track/24u5BbPjlUv8BSsGhhw6rU" }
                         },
                         Name = "The Suspicious Pigeons",
                         Bandcamp =  "https://thesuspiciouspigeons.bandcamp.com/releases",
@@ -2081,7 +2218,7 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "All I Need is to be Needed", Spotify = "https://open.spotify.com/track/2xUPpgi9t1NRzExh5IXQcZ" }
                         },
                         Name = "The Ultraviolet",
                         Bandcamp =  "https://theultravioletofficial.bandcamp.com/",
@@ -2089,14 +2226,10 @@ namespace Furzify.API.Extensions
                         Instagram = "https://www.instagram.com/theultravioletofficial/",
                         Facebook = "https://www.facebook.com/theultraviolet.music",
                         Twitter =  "https://twitter.com/The_Ultraviolet",
-                        Spotify = "https://open.spotify.com/artist/1NsIJ3z3RAHjQAPgDWzlIn?si=3DdsX0CFSkeB0X1FcNG9NA"
+                        Spotify = "https://open.spotify.com/artist/1NsIJ3z3RAHjQAPgDWzlIn"
                     },
                     new Band
                     {
-                        Songs = new List<Song>()
-                        {
-
-                        },
                         Name = "The Wilbur Project",
                         Facebook = "https://www.facebook.com/groups/1118799074803360/",
                         Website =  "https://thewilburproject.co.uk"
@@ -2106,9 +2239,14 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song
+                            {
+                                Name = "Rolling On You Romeo",
+                                Spotify = "https://open.spotify.com/track/7ph05MPYAnKlUQn61mYjfS"
+                            }
                         },
                         Name = "VEI",
+                        Spotify = "https://open.spotify.com/artist/0BYFpiq448iFqxmojCSxfq",
                         SoundCloud = "https://soundcloud.com/vei",
                         YouTube = "https://www.youtube.com/user/Veimusic",
                         Instagram = "https://www.instagram.com/vei_music/",
@@ -2119,7 +2257,8 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Valley of Vision", Spotify = "https://open.spotify.com/track/5Mc4gTsXRqHhCJ1snFFEPW" },
+                            new Song { Name = "Old World Blues", Spotify = "https://open.spotify.com/track/0XaGk9PNgX0BLlRYWDIG2R" },
                         },
                         Name = "Weirds",
                         SoundCloud = "https://soundcloud.com/weirds",
@@ -2133,7 +2272,7 @@ namespace Furzify.API.Extensions
                     {
                         Songs = new List<Song>()
                         {
-
+                            new Song { Name = "Media", Spotify = "https://open.spotify.com/track/0sdzOt2j1Bd8TiEdWGu5P2" }
                         },
                         Name = "Zublue",
                         Facebook = "https://www.facebook.com/zublueband/",
@@ -2143,10 +2282,6 @@ namespace Furzify.API.Extensions
                     },
                     new Band
                     {
-                        Songs = new List<Song>()
-                        {
-
-                        },
                         Name = "Red House Glory",
                         SoundCloud = "https://soundcloud.com/redhouseglory",
                         Twitter =  "https://twitter.com/redhouseglory",
